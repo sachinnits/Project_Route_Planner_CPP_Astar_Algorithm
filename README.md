@@ -1,5 +1,5 @@
 # Project_Route_Planner_CPP_Astar_Algorithm
-
+The details of major implementation are present in the "src" directory.
 This repo contains the complete code for the Route Planning project.
 
 <img src="map.png" width="600" height="450" />
