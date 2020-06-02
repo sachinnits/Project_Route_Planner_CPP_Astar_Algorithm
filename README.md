@@ -11,10 +11,7 @@ When cloning this project, be sure to use the `--recurse-submodules` flag. Using
 ```
 git clone https://github.com/sachinnits/Project_Route_Planner_CPP_Astar_Algorithm.git --recurse-submodules
 ```
-or with SSH:
-```
-git clone git@github.com:sachinnits/Project_Route_Planner_CPP_Astar_Algorithm.git --recurse-submodules
-```
+
 
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
